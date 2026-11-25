@@ -1,12 +1,12 @@
 """Entry for make.fun bounty "The Word You'd Delete From the Dictionary".
 
-Entry text (5 characters, limit: at most 77 characters).
+Entry text (6 characters, limit: at most 77 characters).
 No trailing newline is written, per the bounty text format.
 """
 
 import os
 
-ENTRY = 'Moist'
+ENTRY = 'Moist.'
 
 def main():
     out_dir = os.environ.get("OUTPUT_DIR", "/output")

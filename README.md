@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The Word You'd Delete From the Dictionary](https://make.fun/bounty/u-puan-the-word-you-d-delete-from-the-dictionary-9e774bc2).
 
-> Moist
+> Moist.
 
 ## Run
 
